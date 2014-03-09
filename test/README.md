@@ -5,7 +5,7 @@ title: Testing Markdown
 
 ## H2 - Testing markdown
 
-Using this new cms we can create ~~nice~~ super cool documents from *Markdown!*
+Using this new cms we can create ~~nice~~ super cool documents from **Markdown!**
 This is cool because
 - It's a free backup of the most important content in my database
 - All the static assets are hosted on github, and not part of my site repo
@@ -43,6 +43,9 @@ Markdown | Less | Pretty
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
+
 ---
+
 *Horizontal Rule*
+
 ---
