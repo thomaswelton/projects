@@ -14,17 +14,9 @@ This is cool because
 
 [This is a link to github](https://github.com)
 
-Time for some code `echo "Hello World";`
-Or in a more full example
-
- ```javascript
- var s = "JavaScript syntax highlighting";
- alert(s);
- ```
+### H3 - Tables
  
- ### H3 - Tables
- 
- Colons can be used to align columns.
+Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -45,3 +37,11 @@ Or in a more full example
 *Horizontal Rule*
 
 ***
+
+Time for some code `echo "Hello World";`
+Or in a more full example
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
