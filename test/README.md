@@ -25,8 +25,6 @@ Colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 
 
-
-
 #### H4 - Blockquotes
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
