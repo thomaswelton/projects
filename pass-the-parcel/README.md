@@ -4,17 +4,20 @@ title: M&S - Pass the Parcel
 tags: [facebook, php]
 ---
 
-100k likes 1m plays after only 3 weeks
+## One App. One Million Plays
+
+In the lead up to Christmas, Marks and Spencer, working with [Profero](http://www.loweprofero.com/), created Pass the Parcel.
+The Facebook game allowed users to pass a digital parcel for their frineds to unwrap. Every layer unwrapped gave another chance of winning M&S Prizes.
+
+**Role:** Lead Developer<br>
+**Date:** December 2011<br>
+**Tech:** PHP, Redis, Javascript, Facebook API<br>
+**Awards:** [IAB Award](http://www.creativeshowcase.net/campaigns/pass-the-parcel)
 
 ![alt text](image.jpeg "Pass the Parcel")
 
-To date "Pass the Parcel" has been one of the most satifysing projects I've worked on. The user engement was fantastic, during three weeks over one million parcels were passed, and the M&S Facebook page had gained around 100,000 new likes.
-I developed the back end system which used a Redis datastore and also worked with Agata who created the Flash components and front end design.
+The user engement was fantastic, during three weeks over one million parcels were passed, and the M&S Facebook page gained around 100,000 new likes.
 
-<iframe src="//player.vimeo.com/video/44465753?color=ff0179" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+I was responsible for the development of the backend archetecture, hosting and frontend development. I worked alongside [Agata](http://jewko.net/welcome/project/passtheparcel) another developer who created the flash components as well as working on the frontend.
 
-Agata - http://jewko.net/welcome/project/passtheparcel
-IAB Award - http://www.creativeshowcase.net/campaigns/pass-the-parcel
-
-
-Profero site - http://www.onlineentryspace.co.uk/pass-the-parcel/
+[See more](http://www.onlineentryspace.co.uk/pass-the-parcel/)
