@@ -11,6 +11,6 @@ The Clothes Show is a yearly fashion event and in 2012 they showcased more than 
 **Date:** Mid 2012<br>
 **Tech:** PHP, imagemagick, Javascript, Facebook API<br>
 
-The app was designed to work inside a Facebook canvas, as well as an iframe to be embeded on 3rd party websites. It allowed user to upload a photo, or choose from their Facebook albums. And customise it with text to say why they thought they were the heart of British Fashion.
+The app was designed to work inside a Facebook canvas, as well as an iframe to be embeded on 3rd party websites. It allowed user to upload a photo, or choose from their Facebook albums. And customise it with text. A personalised image was then created server side using Imagemagick and added to the pulic gallery.
 
 ![alt text](facebook.png "Screenshot")
