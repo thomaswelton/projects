@@ -1,15 +1,14 @@
 ---
 slug: halifax-homebuying-hub
 title: Halifax Homebuying Hub
+tags: [PHP, Javascript, Joomla, Google Maps, Facebook, Youtube]
+role: Developer
+date: May 2012
 ---
 
 ## Mortgage Advice, brought home
 
 To help promote their new mobile app, and provide advice to their customers Halifax created the Facebook Homebuying Hub. A Facebook canvas and Tab application.
-
-**Role:** Developer<br>
-**Date:** May 2012<br>
-**Tech:** PHP, Joomla CMS, Javascript, Google Maps API, Facebook API, Youtube API.<br>
 
 I developed the framework for the homebuying hub. Built on the Joomla CMS it had a simple to use administration interface which allowed the client to position and configure the different modules on the page as well as manage the user generated content.
 

@@ -1,9 +1,15 @@
 ---
 slug: spot-the-nasties
 title: Spot The Nasties
+tags: [PHP, Facebook, Javascript]
+role: Lead Developer
+date: 2013
 ---
 
-Facebook Application
+## Find the invisible Nasties
 
-![alt text](facebook-1.png "Screenshot")
-![alt text](facebook-2.png "Screenshot")
+Facebook game for Colgate
+
+Where we did stuff
+
+![alt text](videothumb.jpg "Promo video")

@@ -1,15 +1,14 @@
 ---
 slug: faces-of-mondelez
 title: Faces of Mondelez
+tags: [PHP, Javascript, Email, imagemagick]
+role: Lead Developer
+date: September 2012
 ---
 
 ## Rebrand from Kraft foods
 
 Kraft foods became Mondelez in September 2012. To celabrate the the rebrand and to show the people that made up the new international team the Faces of Mondelez microsite was created.
-
-**Role:** Lead Developer<br>
-**Date:** September 2012<br>
-**Tech:** PHP, Javascript, Email parsing, imagemagick<br>
 
 Staff could submit their photos by sending them in an email to an internal address. Or designated admins could upload photos individually or as a zip file to the admin tool.
 

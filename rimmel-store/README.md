@@ -1,6 +1,9 @@
 ---
 slug: rimmel-store
 title: Rimmel Facebook Store
+tags: [PHP, Joomla, Facebook, Paypal]
+role: Lead Developer
+date: 2013
 ---
 
 ## Facebook Ecommerce Platform
@@ -17,5 +20,4 @@ Rimmel - http://www.rimmellondon.co.uk/
 Facebook - http://www.facebook.com/rimmellondon
 
 Paypal - https://www.paypal.com
-![alt text](product.png "Screenshot")
-![alt text](products.png "Screenshot")
+![alt text](steal-show.jpg "Promo Banner")

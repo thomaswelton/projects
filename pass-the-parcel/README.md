@@ -1,7 +1,7 @@
 ---
 slug: pass-the-parcel
 title: M&S - Pass the Parcel
-tags: [PHP, Redis, Javascript, Facebook API]
+tags: [PHP, Redis, Javascript, Facebook]
 role: Lead Developer
 ---
 
