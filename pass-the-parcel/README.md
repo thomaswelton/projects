@@ -1,18 +1,14 @@
 ---
 slug: pass-the-parcel
 title: M&S - Pass the Parcel
-tags: [facebook, php]
+tags: [PHP, Redis, Javascript, Facebook API]
+role: Lead Developer
 ---
 
 ## One App. One Million Plays
 
 In the lead up to Christmas, Marks and Spencer, working with [Profero](http://www.loweprofero.com/), created Pass the Parcel.
 The Facebook game allowed users to pass a digital parcel for their frineds to unwrap. Every layer unwrapped gave another chance of winning M&S Prizes.
-
-**Role:** Lead Developer<br>
-**Date:** December 2011<br>
-**Tech:** PHP, Redis, Javascript, Facebook API<br>
-**Awards:** [IAB Award](http://www.creativeshowcase.net/campaigns/pass-the-parcel)
 
 ![alt text](image.jpeg "Pass the Parcel")
 
