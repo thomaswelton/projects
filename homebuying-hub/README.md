@@ -14,4 +14,4 @@ I developed the framework for the homebuying hub. Built on the Joomla CMS it had
 
 The hub featured a custom made youtube slideshow widget. An ask an expert section allowing users to ask DIY and Home experts like Tommy Walsh and Charlie Dimmock their questions. As well as an interactive map showing users the trend in house prices of the last decade.
 
-![alt text](facebook.png "Screenshot")
+![alt text](canvas.jpg "Screenshot")

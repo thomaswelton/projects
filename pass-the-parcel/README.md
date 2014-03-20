@@ -3,6 +3,7 @@ slug: pass-the-parcel
 title: M&S - Pass the Parcel
 tags: [PHP, Redis, Javascript, Facebook]
 role: Lead Developer
+date: November 2011
 ---
 
 ## One App. One Million Plays
@@ -11,6 +12,8 @@ In the lead up to Christmas, Marks and Spencer, working with [Profero](http://ww
 The Facebook game allowed users to pass a digital parcel for their frineds to unwrap. Every layer unwrapped gave another chance of winning M&S Prizes.
 
 The user engement was fantastic, during three weeks over one million parcels were passed, and the M&S Facebook page gained around 100,000 new likes.
+
+![alt text](box.jpg "Parcel")
 
 I was responsible for the development of the backend archetecture, hosting and frontend development. I worked alongside [Agata](http://jewko.net/welcome/project/passtheparcel) another developer who created the flash components as well as working on the frontend.
 

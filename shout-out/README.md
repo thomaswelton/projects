@@ -3,7 +3,7 @@ slug: toyota-shout-out
 title: Toyota Shout Out
 tags: [PHP, Joomla, Facebook, Twitter]
 role: Lead Developer
-date: 2012
+date: September 2011
 ---
 
 ## What has life thrown at you today?
@@ -14,4 +14,4 @@ The campaign focused around two existing charecters, Gadget & Slick. During the 
 
 The application was tailored for both Facebook and Twitter. Users could tweet entries using a hashtag, or submit entries in the Facebook application. In total 125 videos were created for our users.
 
-![App Screenshot](app.png "Screenshot")
+![App Screenshot](app.jpg "Screenshot")
