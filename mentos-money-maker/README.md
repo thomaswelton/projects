@@ -8,6 +8,8 @@ date: April 2013
 
 ## Augmented Reality Game
 
-A Facebook app for Mentos, using augmented reality to detect particular types of Mentos sweets to play an interactive flash game with. 20 million Mentos packs have been branded with our Shake Your Money Maker app.
+A Facebook app for Mentos. Using augmented reality to detect particular types of Mentos sweets to play an interactive flash game with.
+
+20 million Mentos packs were branded with our Shake Your Money Maker app. And thoursands of user interactions.
 
 ![alt text](screenshot.jpg "App Screenshot")
